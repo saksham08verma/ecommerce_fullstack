@@ -14,7 +14,7 @@ function App() {
   return (
     <>
       <nav className="navbar">
-        <h2>Flipkart Clone</h2>
+        <h2>QuickKart</h2>
 
         <div className="nav-buttons">
           <button onClick={() => setPage("products")}>
